@@ -4,5 +4,6 @@
 .Ruserdata
 scripts
 .bugbook.Rproj
-
+bugbook.Rproj
+bugbook.qmd
 /.quarto/
