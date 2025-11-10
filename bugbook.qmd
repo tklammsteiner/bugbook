@@ -56,7 +56,7 @@ country_freq <- contributions %>%
 
 <div style="text-align: justify;">
 
-The BugBook project was initiated and coordinated by David Deruytter (Inagro, Belgium), and brings together expertise from across Europe and beyond to address the growing need for standardized research in the field of industrial insect rearing. Comprising 13 chapters (**Table 1**), the BugBook project provides a comprehensive and open access manual for researchers and professionals working on the production of insects for food and feed, with a particular focus on harmonizing methodologies and experimental design.
+The BugBook project was initiated and coordinated by David Deruytter (Inagro, Belgium), and brings together expertise from across Europe and beyond to address the growing need for standardized research in the field of industrial insect rearing. Comprising 13 chapters (**Table 1**), the BugBook project provides a comprehensive and open access manual for researchers and professionals working on the production of insects for food and feed, with a particular focus on harmonizing methodologies and experimental design. The most frequently used words (**Figure 1**) illustrate the scope and thematic focus of the project.
 
 </div>
 
@@ -115,7 +115,7 @@ saveWidget(wc, "assets/wordcloud.html", selfcontained = TRUE)
 <iframe src="assets/wordcloud.html" width=100% height="400" style="border:none;"></iframe>
 
 <figcaption>
-  <b>Figure 1.</b> Word cloud constructed from the 100 most frequently used words used across all chapters of the BugBook.
+  <b>Figure 1. Word cloud constructed from the 100 most frequently used words used across all chapters of the BugBook.</b>
 </figcaption>
 
 <br>
@@ -133,7 +133,7 @@ saveWidget(wc, "assets/wordcloud.html", selfcontained = TRUE)
 
 As research on insect farming has rapidly expanded, driven by advances in genetics, processing, and sustainability, the lack of standardized data analysis and experimental protocols has become a significant barrier to progress and comparability across studies. The BugBook project directly addresses this gap by providing guidance on standardizing processing methods, refining feeding trial protocols, and outlining best practices for chemical analysis of insect biomass. It also introduces conceptual approaches to genetic research, diversity management, and selective breeding, all of which are crucial for the sustainable development of insects as food and feed. By integrating these diverse yet interconnected topics, the BugBook serves as a comprehensive resource that fosters harmonization and innovation in insect research, ultimately accelerating the responsible utilization of insects in food, feed, and waste valorization systems.
 
-Building on a foundation of good practices, the BugBook provides detailed guidelines for maintaining laboratory populations of key species such as <i>Tenebrio molitor</i> and <i>Hermetia illucens</i>, ensuring reproducibility and integrity in research. It covers critical aspects of experimental design for insect production, including nutritional requirements, hazard and ecotoxicological safety, and the assessment of insect behavior under mass-rearing conditions. The project also addresses the evaluation and application of insect frass in agricultural and waste systems, emphasizing the importance of microbiome analysis and the interactions between multiple environmental stressors.
+Building on a foundation of good practices, the BugBook provides detailed guidelines for maintaining laboratory populations of key species such as <i>Tenebrio molitor</i> and <i>Hermetia illucens</i>, ensuring reproducibility and integrity in research (**Table 1**). It covers critical aspects of experimental design for insect production, including nutritional requirements, hazard and ecotoxicological safety, and the assessment of insect behavior under mass-rearing conditions. The project also addresses the evaluation and application of insect frass in agricultural and waste systems, emphasizing the importance of microbiome analysis and the interactions between multiple environmental stressors.
 
 </div>
 
@@ -258,7 +258,7 @@ network
 
 
 <figcaption>
-  <b>Figure 2.</b> Interactive network of collaboration patterns. Use scroll to zoom in and out, and click and drag a node to explore and expand the network.
+  <b>Figure 2. Interactive network of collaboration patterns.</b> Use scroll to zoom in and out, and click and drag a node to explore and expand the network.
 </figcaption>
 
 
@@ -269,7 +269,7 @@ network
 
 <div style="text-align:justify;">
 
-The geographical distribution (<b>Figure 3</b>) of people that have contributed to the BugBook project clearly shows a Europe-centered focus. The majority of authors are located in `r country_freq$Country[1]`, `r country_freq$Country[2]`, and `r country_freq$Country[3]`. The institution with the highest number of contributions was `r institution_freq$Institution[1]`. 
+The geographical distribution (<b>Figure 3</b>) of people that have contributed to the BugBook project (**Table 2**) clearly shows a Europe-centered focus. The majority of authors are located in `r country_freq$Country[1]`, `r country_freq$Country[2]`, and `r country_freq$Country[3]`. The institution with the highest number of contributions was `r institution_freq$Institution[1]`. 
 
 </div>
 
@@ -303,12 +303,17 @@ contributions %>%
 ```
 
 <figcaption>
-  <b>Figure 3.</b> Interactive map showing the geographical distribution of the people that contributed to the BugBook.
+  <b>Figure 3. Interactive map showing the geographical distribution of the people that contributed to the BugBook.</b> Scroll or click on nodes to zoom in. Click on dark green nodes to show the respective author information.
 </figcaption>
 
 <br>
 
 ## Searchable list of authors
+
+<figcaption>
+  <b>Table 2. Overview of all contributing authors</b>. It includes their primary affiliations, ORCID identifiers, and keywords extracted from the chapters to which they contributed to help find relevant experts for a specific topic.
+</figcaption>
+
 ```{r author list, echo=F, message=F, warning=F}
 unique_authors <- read_excel("data/bugbook_data.xlsx", sheet = "unique_authors")
 
@@ -429,16 +434,16 @@ wrap_plots(list(a, bc), nrow = 2, heights = c(0.6, 0.4)) + plot_annotation(tag_l
 ```
 
 <figcaption>
-  <b>Figure 4.</b> Overview of selected statistics. <b>A.</b>  Timeline of chapter submissions, acceptances, and online publications. <b>B.</b> Institutional rankings based on the number of contributions to BugBook chapters (Top 10). <b>C.</b> Number of authors per chapter.
+  <b>Figure 4. Overview of selected statistics.</b> <b>A.</b>  Timeline of chapter submissions, acceptances, and online publications. <b>B.</b> Institutional rankings based on the number of contributions to BugBook chapters (Top 10). <b>C.</b> Number of authors per chapter.
 </figcaption>
 
 <br>
 
-## Data
+## Data used for this post
 
 The raw data used in this post can be downloaded [here](https://github.com/tklammsteiner/bugbook/raw/dad477f8be674a8cbb0b8a0aa413551127c03525/data/bugbook_data.xlsx). Feel free to use, adapt, and share this work in any way you like.
 
-## Links
+## Links to other projects
 
 - [Black Soldier Fly Biowaste processing: A Step-by-Step Guide (2nd Edition)](https://www.eawag.ch/fileadmin/Domain1/Abteilungen/sandec/schwerpunkte/swm/Practical_knowhow_on_BSF/BSF_Biowaste_Processing_2nd_Edition_HR.pdf) by Dortmans et al. (2021)
 - [COST Action CA23127](https://www.cost.eu/actions/CA23127/) - Group on Insect Nutrition: To Open Nutritional Innovative Challenges (GIN-TONIC)
