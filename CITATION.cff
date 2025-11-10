@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this Quarto website or project, please cite it using the following metadata."
+title: "BugBook: Setting the gold standard for research on farmed insects"
+version: 0.1.0-beta
+doi: "10.5281/zenodo.XXXXXXX"  
+url: "https://github.com/yourusername/your-quarto-repo"
+authors:
+  - family-names: "Klammsteiner"
+    given-names: "Thomas"
+    orcid: "https://orcid.org/0000-0003-1280-5159"
+    affiliation: "Department of Ecology, Universität Innsbruck"
+date-released: "2025-11-10"
+license: "CC-BY-4.0"
+keywords:
+  - "bugbook"
+  - "insects as food and feed"
+  - "insect farming"
+  - "Standardization"
+repository-code: "https://github.com/tklammsteiner/bugbook"
