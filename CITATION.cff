@@ -2,7 +2,9 @@ cff-version: 1.2.0
 message: "If you use this Quarto website or project, please cite it using the following metadata."
 title: "BugBook: Setting the gold standard for research on farmed insects"
 version: 0.1.0-beta
-doi: "10.5281/zenodo.XXXXXXX"  
+identifiers:
+  - type: doi
+    value: TBA
 url: "https://github.com/yourusername/your-quarto-repo"
 authors:
   - family-names: "Klammsteiner"
