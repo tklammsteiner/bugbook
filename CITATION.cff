@@ -4,7 +4,7 @@ title: "BugBook: Setting the gold standard for research on farmed insects"
 version: 0.1.0-beta
 identifiers:
   - type: doi
-    value: TBA
+    value: 10.5281/zenodo.17571652
 url: "https://github.com/yourusername/your-quarto-repo"
 authors:
   - family-names: "Klammsteiner"

@@ -24,10 +24,11 @@ format:
 copyright: 
   holder: Thomas Klammsteiner
   year: 2025
-doi: 
+doi: https://doi.org/10.5281/zenodo.17571652
 citation: 
   type: post-weblog
   container-title: Zenodo
+  doi: 10.5281/zenodo.17571652
   url: https://tklammsteiner.github.io/bugbook
 license: "CC BY"
 before_body: |
