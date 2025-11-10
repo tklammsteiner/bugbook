@@ -1,0 +1,557 @@
+8 BugBook: life cycle, reproduction, and morphofunctional characterisation of the gut, fat body, and haemocytes in the black soldier fly
+Abstract
+
+Insects are attracting significant attention due to their effectiveness as bioconversion agents for various organic waste and by-products, as well as for their use as raw material in the food and feed sector. Consequently, their potential in creating novel, circular, and sustainable supply chains has been extensively documented, leading to a rapid increase in research on the biology of these animals. In this scenario, the black soldier fly (BSF) has gained considerable popularity. Despite the extraordinary bioconversion capabilities of BSF larvae, several challenges must be addressed to develop and optimise the bioconversion process of a wide range of organic substrates. This effort is accompanied by the need to standardise research protocols. To this end, in this article we present information on the morphological features of developmental stages of BSF, the isolation of larval organs, and methods for studying digestion, immune response, and the reproductive system.
+Schlüsselwörter:Hermetia illucens; insect morphology; insect physiology; gut in vitro models; insect immunity
+1 Introduction
+
+In the last decade, black soldier fly larvae (BSFL) have generated significant interest due to their potential applications in the bioconversion of organic waste and by-products of the agri-food production chain (Gold et al., 2018). The obtained insect biomass is rich in protein, lipids, and chitin, suitable raw materials for manufacturing bioproducts (Athanassiou et al., 2025; Bruno et al., 2025a; Tettamanti and Bruno, 2024). Moreover, the rearing residue (i.e. frass) is gaining increasing attention as organic fertiliser and biostimulant (Barragán-Fonseca et al., 2022; Henault-Ethier et al., 2024). From an applicative perspective, all these aspects make the BSF attractive as it can contribute to conceiving circular economy supply chains, making better use of resources and promoting sustainable development (Bruno et al., 2025a; Cappellozza et al., 2019). Recent studies have emphasised the use of BSFL not only for waste management, but also as a source of enzymes and microbial strains (Auger et al., 2025) useful for degrading recalcitrant natural and synthetic polymers (De Filippis et al., 2023, 2024; Kariuki et al., 2023; Bruno et al., 2025b), making this insect interesting for biotechnological applications.
+
+However, despite the growing interest in BSF, there remains a considerable gap in the comprehensive understanding of its biology. This lack of information poses challenges to harnessing the full potential of this insect in various sectors. To bridge this gap in knowledge, it is essential to deepen our understanding of its development, reproductive habits, physiological mechanisms, feeding plasticity, and adaptations to contaminated substrates, just to name a few. Moreover, a thorough understanding of these aspects could also help optimise breeding and rearing practices, thereby improving yield production and efficiency of the bioconversion process. In parallel, there is a pressing need to standardise methods and protocols for studying this insect. Currently, the variability in experimental approaches and data interpretation in the literature hinders the possibility to compare results from different studies (Bosch et al., 2020; Wiklicky et al., 2024). Furthermore, standardised methodologies would enable more reliable and reproducible research outcomes, facilitating collaboration and knowledge sharing between scientists and industry stakeholders.
+
+Here, we provide a set of guidelines and recommendations for standardising research on BSF. In particular, information on distinctive morphological features of the different developmental stages, procedures to isolate larval organs for subsequent analysis, and methods for studying digestion, immune response, and the reproductive system are presented.
+2 Morphological description of the egg, larval, pupal, and adult stages
+BSF eggs
+
+Just after being laid, fertilised eggs present an elongated shape; they are about two mm long and have a white and homogeneous colour (Figure 1A). Hatching occurs three-four days after laying and modifications in egg colour and morphology can be observed during embryonic development. In particular, at 24 h of development the egg turns pale yellow in colour, being translucent at one end, which makes it possible to identify the antero-posterior axis: the anterior pole is tapered and translucent, while the posterior pole is rounded and opaque (Figure 1B). At 72 h of development the egg shows a more intense yellowish colour (Figures 1C and 10B). Two red spots –corresponding to the rudiments of larval antennae– are visible at the anterior pole. In addition, the major tracheal trunks become visible as two parallel lines running longitudinally along the antero-posterior axis (Figure 1C).
+Figure 1
+Figure 1
+
+Development of fertilised eggs. (A) Freshly laid egg; (B) egg at 24 h of development; (C) egg at 72 h of development. Arrow: trachea; arrowhead: rudiment of antenna; asterisk: anterior pole. Scale bars: 1 mm.
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+Larval stage
+
+Since the developmental time and performance of BSFL strongly depend on several factors, such as food quality (Oonincx et al., 2025), larval density, temperature, and humidity (Diener et al., 2009; Gold et al., 2018), the duration of the larval stage can vary from 14 to 238 days (Schreven et al., 2020; Shumo et al., 2019). Although efforts have been spent in the description of larval morphology during development (Barros et al., 2019; Oliveira et al., 2016), a clear and widely accepted identification of the different larval instars is not available in the literature so far.
+
+Newly hatched larvae, which are about two mm long, are characterised by a translucent cuticle and the major tracheal trunks can already be identified (Figure 2A). In the first tagma, the head, mouth apparatus, and antennae are clearly visible; the other two tagmata –thorax and abdomen– are composed of three and seven metameres, respectively (Figure 2A). This organisation is maintained up to pupation (Figures 2 and 3).
+Figure 2
+Figure 2
+
+Larvae at different development times. Dorsal view of larvae at one (A), two (B), five (C), eight (D), and fourteen (E) days of development; a last instar larva is reported in (E). (F) Higher magnification of long lateral setae grouped in the second (two setae) and third (four setae) thoracic metamere. Larvae were reared on chicken feed at 27 ± 0.5 °C. Arrow: trachea; arrowhead: antenna; open arrow: mouth apparatus; bracket: head; dashed line: boundary between second and third thoracic metamere; rectangle: group of setae shown in (F). Scale bars: 0.5 mm in (A–B, F), 1 mm in (C), 0.5 cm in (D–E).
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+Figure 3
+Figure 3
+
+Larva to pupa transition. Dorsal view of larva at the end of last instar (A), prepupa (B), early pupa (C), and late pupa (D). Scale bars: 0.5 cm.
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+The different larval instars display not only an increase in size, but also changes in the cuticle colour. Both features are influenced by the rearing substrate. Moreover, sensorial structures –i.e. hair-like setae– increase in number and size during larval development. In detail, when larvae are reared on chicken feed (a highly nutritional feeding substrate used as control diet in many studies) the colour of the cuticle changes from light to dark brown passing from early to late larval instars (Figure 2A–E) and the body size reaches about two cm in length at last instar (Figure 2E).
+
+Two different types of setae can be distinguished on the ventral and dorsal side of each thoracic and abdominal metamere (Figure S1). Those located dorsally are organised into two rows, one in a more cephalic and the other in a more caudal position; the former are tiny and short, while the latter are long and regularly spaced. The ventral side of the metamere exhibits a different pattern of the setae. Those located in the more cephalic position are longer and more abundant than those in same row located on the dorsal side of the metamere (Figure S1A–B), while the more caudal row is characterised by only two pairs of setae in each metamere (Figure S1B). Additionally, groups of setae are located laterally. At last larval instar, two long setae are grouped on each side of the first and second thoracic metamere, while from the third thoracic metamere to the penultimate abdominal one, setae are organised in groups of four (Figure 2E–F). Finally, the last abdominal metamere displays six evenly distributed setae along its border (Figure S1C–D). All the setae are long and lighter in colour at early larval development, becoming darker and longer during development.
+Prepupal phase and pupal stage
+
+The transition from larval to pupal stage is referred to as the prepupal phase. Importantly, although frequently reported as such in the literature, this phase cannot be defined as a “stage” as it is simply the larva-pupa moult. It is characterised by cessation of feeding and pharate condition (apolysis –the detachment of the larval cuticle from the epidermal tissue– has occurred and the new pupal cuticle has started to form, but ecdysis –the shedding of the old cuticle– has not taken place yet). One of the distinguishing features between the prepupa and the larva at the end of last instar is the colour and transparency of the cuticle. In fact, the cuticle of the latter shows a lighter colour and is more transparent than the prepupa (Figure 3A–B). Accordingly, looking at the ventral side of the larva, the gut can be easily recognised under the cuticle. In fact, the alimentary canal is usually dark-coloured due to the presence of food (Figure S2A), although its appearance can vary depending on the rearing substrate. In contrast, the presence of a double cuticle (i.e. the larval cuticle and the newly forming pupal cuticle) in prepupae reduces body transparency, increases the intensity of the cuticle colour, and impairs the view of the inner gut (Figure S2B). When grown on chicken feed at 27 ± 0.5 °C, the prepupal phase lasts 24–48 h; then, the insect enters pupal stage, which lasts at least 10–12 days. The duration of pupal stage can significantly vary according to environmental temperature and energy reserves accumulated during the larval period.
+
+Early and late pupae differ in colour, motility, and shape (Figure 3C–D). In detail, early pupae exhibit a brown colour and motility similar to last instar larvae. As pupal development proceeds, the cuticle darkens and becomes rigid, and the insect stops moving. As a result of metamorphosis, the lateral sides of the pupa become flattened, and the posterior region bends downward (Figure S3A–B). It must be highlighted that BSF pupa is concealed within the puparium; therefore, it is a pharate pupa. In detail, the cuticle of the last larval stage forms the so called “puparium” as ecdysis does not occur during larva-pupa moult. Therefore, the pupa has its own cuticle, covered by that of the last larval stage. At the end of the pupa-adult moult, the adult with its own cuticle emerges from an envelope made of two cuticles –the cuticle of the last larval stage and the pupal cuticle–.
+
+The outer layer of the pupal cuticle (i.e. epicuticle) is characterised by the presence of blocks of calcite crystals (Rebora et al., 2023) (Figure S4). Calcium carbonate is already present in the cuticle of young larvae, mainly in the amorphous form. The amount of calcite increases during larval development and induces cuticle hardening. Moreover, the larval and pupal cuticles contain large amounts of resilin, a protein that guarantees cuticle flexibility.
+Adult stage
+
+The adult emerges in the antero-dorsal region of the pupa, between the head and the first thoracic metamere (Figure S3A). Fly lifespan is seven-eight days if no water or food is provided. Adult dimensions can vary between individuals, with females generally being larger than males (Figure 4A–C), although the amount and quality of food provided to the larvae can influence the adult size. The fly is black, with metallic reflections of the wings ranging from blue to green. A translucent window is located on the first and second metamere of the abdomen, and whitish podomeres are present on the legs (Figure 4B–C).
+Figure 4
+Figure 4
+
+Sexual dimorphism between female and male. (A) Measurements of male and female head widths (n = 340 females and n = 340 males). Head width is a good proxy of adult size and weight. (B) Ventral view of the female; (C) ventral view of the male; (D) detail of female genitalia; (E) detail of male genitalia. Arrowheads: white podomeres; asterisks: “translucent window”, i.e. the sternite of the first and second abdominal segment. Scale bars: 0.5 cm in (B, C), 1 mm in (D, E).
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+Sexual dimorphism can be easily detected by inspecting the external reproductive organs located in the last metameres of the abdomen (Figure 4B–E). In fact, female genitalia are constituted by a pseudo-ovipositor with two long cerci segmented into two parts (scissor-like structure) (Figure 4D), while male genitalia are short and present a plate-like structure equipped with two cerci and a pair of hooks (styli) useful for holding the female genital organs during copulation (Figure 4E). Sexual dimorphism can be envisaged in the antennae, too (Figure S5A–B). In the male, the first seven flagellomeres have a cylindrical shape of similar diameter, while in the female the same flagellomeres present a truncated cone shape. In both sexes, the antennae are rich in olfactory sensilla that are sensitive to different chemicals (Piersanti et al., 2024). It has been recently demonstrated that sexual dimorphism is present also in the wings due to the iridescent structural coloration generated by a melanin multilayer located in the wing dorsal lamina (Rebora et al., 2024). Wing sexual dimorphism is particularly evident as seen in the strong emission of blue light from female wings, which is significantly greater than that of male wings (Figure S5C–D). Interestingly, blue colour induces a strong motivation to mate in males (Rebora et al., 2024).
+3 Reproduction
+
+Although reproduction plays a crucial role in industrial productivity, paradoxically, this remains one of the least understood aspects of the BSF. This gap in knowledge may largely be due to the main focus on the larval stage for economic reasons, while reproduction takes place in the adult.
+Male and female reproductive tracts
+
+Newly emerged males have spermatozoa, but do not show any courtship behaviour, while females lack mature oocytes in their ovaries and do not attract males (Munsch-Masset et al., 2023). Both males and females can mate two days after emergence (Sheppard et al., 2002), with light intensity and quality being the main environmental factors favouring mating (Tomberlin and Sheppard, 2002).
+
+The male reproductive tract comprises two testes, two seminal vesicles, two accessory glands, and a common canal leading to an ejaculatory bulb (Figure 5). Isolation of the reproductive tract requires opening the abdominal ventral sclerites, gently regrouping the glands and seminal vesicles, separating testes from the fat body, and smoothly lifting organs to follow the common canal and the aedigium. The latter must be separated from sclerites that are firmly attached to muscles. The entire dissection should be performed in a saline buffer (e.g. phosphate-buffered saline, PBS (137 mM NaCl, 2.7 mM KCl, 10 mM Na2HPO4/KH2PO4, pH 7.4)). This procedure can be tricky, particularly when uncoiling the long seminal vesicles (13 mm long) as they break easily.
+Figure 5
+Figure 5
+
+Male reproductive tract. (A) Opened abdomen of a male, ventral view; (B) whole male reproductive tract with uncoiled seminal vesicles; (C) studded pipe (sp) and aedigium (ae). ags: accessory glands; cc: common canal; svs: seminal vesicles; tes: testes. Scale bars: 2 mm in (A, B), 200 μm in (C).
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+Spermatogenesis –the production of spermatozoa– takes place in the testes. From the apical to the basal part, many spermatogonia can be distinguished (Malawey et al., 2019). Testes are full of sperm cysts (Kotzé et al., 2019) (Figure 6A), each containing germinal cells under differentiation (Figure 6B). It seems that spermiogenesis –the last stage of spermatogenesis corresponding to the differentiation of spermatids– only occurs in adult males, with round haploid cells elongating and maturing before individualisation of complete spermatozoa. However, a gradient along the testes is visible, early spermatids being in the apical part and mature spermatozoa in the basal part, close to the seminal vesicles (Figure 6A). The structure of spermatozoa in BSF is similar to that found in most insects: a short acrosome, a nucleus, a long axoneme flanked by two mitochondrial derivatives, and a centriolar adjunct in continuity with the nucleus (Kotzé et al., 2019). The flagella’s axoneme has a 9 + 9 + 2 microtubule organisation typical of insects (Figure 6C) (Dallai, 2014). Total length has been reported to range from 860 μm to 3 mm (Malawey et al., 2019; Munsch-Masset et al., 2023), which can be considered longer than in other insects (Dallai, 2004), presumably due to sexual selection.
+Figure 6
+Figure 6
+
+Cross-section of a testis. (A) Transverse section of a testis showing coiled cysts all along the organ; (B) two cysts side by side with spermatids at different stages of maturation; (C) ultrastructure of a mature spermatozoon. ax: axoneme; ca: centriolar adjunct; md: mitochondrial derivatives. Scale bars: 100 μm in (A), 2 μm in (B), 200 nm in (C).
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+Testis activity is continuous over the life of a male. Males store between 3000 to 10 000 mature spermatozoa in their filiform seminal vesicles upon emergence and can produce up to 50 000 spermatozoa within 20 days. In this organ, spermatozoa are not stored in an organised way and are highly compacted. At the same time, testes width decreases with age (Munsch-Masset et al., 2023), suggesting that fertility diminishes in older males.
+
+Once the aedigium is inserted into the female reproductive tract, sperm travels through a common canal, a sperm pump, and an unusual “studded pipe”, all having a muscular wall, to reach the copulating organ. During this transit, both muscular movements and sperm self-motility can likely ensure that the sperm progresses through the tract. Under the microscope, the spermatozoa of BSF exhibit wave-like motions (referred to as ‘motility’) as in other insects, but lack progressive movements associated with true mobility; their activity depends on specific pH, osmolarity, or viscosity (Werner and Simmons, 2008). As spermatozoa are long and firmly tangled, the studded pipe may be involved in disentangling them before they pass through the very thin wands of the aedigium. The copulating organ is composed of three wands and could be associated with each of the three spermathecae in the female.
+
+Accessory glands of males, which produce seminal fluid components, are relatively large compared to the size of the entire reproductive tract as they can measure up to 70 mm. This size is consistent with the amount of seminal fluid transferred during mating (around 25 μl) (Manas et al., 2024). Seminal fluids transport spermatozoa but also non-gametic components such as salts, sugars, lipids, water, microorganisms, and seminal fluid proteins (Poiani, 2006). These proteins, which have been extensively studied in insects (Ramm and Stockley, 2007) and are known to induce post-mating responses in females, require investigation in BSF.
+
+Insects and other taxa such as arachnids, molluscs, and annelids have specialised sperm storage organs known as spermathecae. BSF females have three similar spermathecae, composed of different compartments. To the best of our knowledge, this is the only insect species in which spermathecae are positioned above the ovaries in females, whereas they are typically located below these organs.
+
+The first compartment in which sperm is ejaculated is a tubular structure called fishnet canal. This structure owes its name to the way it looks under an epifluorescence microscope (Figure 7E). Fishnet canals are composed of a matrix surrounded by a thick epithelium (Figures 7B and 8A–C).
+Figure 7
+Figure 7
+
+Female reproductive tract. (A) Opened abdomen of a female, ventral view; (B) whole reproductive tract of a female; (C) spermathecae; (D) fishnet canal with its epithelium and matrix; (E) fishnet canal under UV-light; (F) reservoir. ags: accessory glands; ep: epithelium; fc: fishnet canals; fm: fishnet matrix; ov: ovaries; r: reservoirs; spt: spermathecae. Scale bars: 2 mm in (A, B), 500 μm in (C, D), 50 μm in (E), 200 μm in (F). Panel B derived from Munsch-Masset et al. (2023), panels C–E from Manas et al. (2024).
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+Figure 8
+Figure 8
+
+Fishnet canal ultrastructure. (A–C) Cross-sections of the fishnet canals of a virgin female (A), a female that just completed mating (B), and a female that mated two days previously (C). (D–E) Microscopy images of the sperm plug formed at the end of the fishnet canal with light (D) and fluorescence (E) (DAPI staining was used to show spermatozoa nuclei) microscopy. (F–G) Microvilli of the epithelium from a female that mated two days previously. e: epithelium; fm: fishnet matrix; l: lumen; mc: muscular cells; mv: microvilli; sf: seminal fluid; sp: spermatozoa. Scale bars: 50 μm in (A–C), 200 μm in (D–E), 5 μm in (F), 2 μm in (G). Figure derived from Manas et al. (2024).
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+This canal leads to a much thinner compartment made up of a rigid tube that appears brown. It forms an “elbow” with another much thinner rigid tube pierced with small holes, leading to the last compartment where the sperm will be stored: the reservoir (Figure 7A, C, F). Such a complex sperm storage organ goes along with complex sperm storage dynamics. The fishnet canals represent transfer compartments within which the male ejaculates his sperm, and the reservoirs are storage compartments where the spermatozoa are stored throughout the female’s life.
+
+During the first part of mating, the male transfers around 25 μl of seminal fluid into the fishnet canals for about 15 min (Manas et al., 2024). The amount of seminal fluid transferred by a male depends on its body size. After the fluid transfer, the male begins the transfer of around 5000 spermatozoa. Combined with the considerable length of spermatozoa, this quantity of transferred gametes results in the transfer of three masses of spermatozoa (one per spermatheca) which get stuck at the top of the fishnet canals (Figure 8D–E). As mating duration is highly variable, the duration of these steps could vary. In some species, copulation duration is related to the amount of transferred sperm, but this is not the case for BSF (unpublished data).
+
+Of the 5000 transferred spermatozoa, approximately 2500 reach the reservoirs two days after mating. The others do not reach the storage area and the seminal fluid that swelled the fishnet canals disappears from this compartment (Figure 9). While some female insects commonly reject sperm, such flushing has never been observed in BSF. To explain the loss of part of the ejaculate, it has been proposed that fishnet canals function as a digestive organ, potentially equipped to digest sperm. This hypothesis is supported by the presence of microvilli in the apical membranes of the cells and the ultrastructure of fishnet canal cells (Figure 8F–G). Additionally, in the fishnet canals, spermatozoa that do not reach the reservoirs the day after mating show signs of degradation, potentially due to digestive activity (Manas et al., 2024). This hypothesis is supported by the observation that mated females live longer than virgin females (Harjoko et al., 2023), which has been suggested to be the consequence of the transfer of nuptial gifts in the form of a nutrient-rich ejaculate.
+Figure 9
+Figure 9
+
+Sperm storage sequence. The whole process takes approximately two days. Seminal fluid is transferred during the first 20 min of mating. Then, spermatozoa are transferred, too. Spermatozoa are stored in the reservoirs 48 h after mating and can no longer be observed in the fishnet canals.
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+Ovaries and egg-laying
+
+When a female emerges, ovaries are immature and oocytes are round-shaped and small (Figure 10A). The ovaries mature in waves throughout the female’s entire life. As soon as maturation advances, the female begins to search for a suitable location to lay eggs although she has not mated. After mating, it takes around two days before eggs are laid. This time period can vary according to the stage of maturation of the ovaries at the time of mating. Once a female has laid eggs, the maturation process starts again, as the sperm stored in her spermatheca is not a limiting factor either in quantity or quality (unpublished data). So far, three successive clutches have been observed, but this number can increase depending on the diet provided to the adults or the number of matings (Muraro et al., 2024).
+Figure 10
+Figure 10
+
+Ovaries and eggs. (A) Ovaries at different stages, from left to right: mature, immature, and empty ovaries. (B) Fertilised eggs. The dark dots are the antennae spots of larvae. Scale bars: 2 mm in (A), 1 mm in (B).
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+It was previously believed that adult BSF does not feed. We now know that it possesses sponging mouthparts and a functional digestive system (Bruno et al., 2019a). Although it is possible to obtain decent quantities of oviposition simply by providing adults with water, the addition of a protein source increases the reproductive output (Bertinetti et al., 2019).
+Mating
+
+Very few studies have described mating behaviour in BSF (Tomberlin et al., 2025). Only one study regarding mating in natural environments exists (Tomberlin and Sheppard, 2001), while other publications deal with experimental or breeding environments (e.g. Zhang et al., 2010; Giunti et al., 2018; Julita et al., 2020).
+
+Two peculiarities of BSF are worthy of note: (1) adults never mate without flying, which makes it difficult to study their behaviour by video recording as in many insects, and (2) they never mate when only one male and one female are put together. Although it was not precisely defined, a minimum of five pairs are needed.
+
+Several authors have described the mating sequence (e.g. Giunti et al., 2018; Julita et al., 2020). Mating always begins in flight. When females are flying, males try to grab and mount them. It is noteworthy that same-sex sexual behaviours –males trying to grab other males to mount them– are common (Giunti et al., 2018). Once the female is grabbed, the two individuals fall. The male holds on to the female by grabbing her abdomen. When the male is climbing on the female, he fans his wings. This wing-fanning behaviour could be involved in the female’s mate choice. However, it is also likely that this serves to stabilise the male while trying to initiate copulation via genital contact. Once genital contact has been made, copulation begins with the male rotating so that the heads of the two individuals are on opposite sides (Figure 11). Note that pairs of males have already been observed going this far into the mating behavioural sequence (unpublished data). The pair can stay in this position for a variable amount of time ranging from 15 min up to 2 h. Disturbing the pair during the first few min of mating by grabbing one of the two individuals can stop mating. However, after approximately 5 min, the pair can be easily caught and moved, which makes it possible to monitor mating and retrieve the eggs later laid by an isolated female.
+Figure 11
+Figure 11
+
+Pair mating. The male is on the left and the female on the right. Scale bar: 1 cm.
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+Until recently, BSF was thought to mate only once in its lifetime. However, it has been proven that both males and females can mate multiple times (Muraro et al., 2024), but the parameters that regulate this phenomenon are unknown.
+4 Morphological description of larval inner anatomy for the identification of organs and tissues
+
+Understanding BSFL inner anatomy is essential for studying the morphophysiology of their organs and tissues. Indeed, correctly identifying the anatomical structures is a basic requirement for their proper isolation. This step is fundamental to avoid measurement biases and misinterpretation of results. The main anatomical structures, visible after the dissection of the larvae (Figure 12), are schematically represented in Figure 13.
+Figure 12
+Figure 12
+
+Dissection of black soldier fly larvae. After anesthetisation on ice, the larva is placed on a polystyrene foam tablet covered with parafilm. The head and the terminal part of the last abdominal segment are cut using sharp fine scissors (A). The integument is laterally cut along the longitudinal axis (B), and the edges of the incision are separated using forceps and fixed to the tablet with entomological pins (C). The brownish gut and other whitish structures (i.e. tracheae, fat body, and Malpighian tubules) are clearly visible. This procedure can be effectively and easily performed starting from the penultimate larval instar. Scale bars: 5 mm.
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+Figure 13
+Figure 13
+
+Inner anatomy of BSF larva. Schematic representation of the larva’s inner anatomy with the main structures clearly visible after dissection (A). The alimentary canal is a long, folded tube that occupies, together with the fat body, the large part of the body cavity. It can be divided into three regions: the foregut, the midgut, and the hindgut. In BSFL the midgut is the longest and most complex part of the gut and exhibits marked morphofunctional regionalisation (i.e. it can be divided into three districts: anterior (AMG), middle (MMG), and posterior (PMG) midgut) (Bonelli et al., 2019; Bruno et al., 2019b) (B). Two pairs of Malpighian tubules join and insert into an ampullary structure at the junction between the posterior midgut and the hindgut (B–C). Once the gut is removed, tracheae (yellow arrows) and fat body (blue arrows) can be easily distinguished (D). Two major tracheal trunks are disposed longitudinally (thick yellow arrows) from which smaller ones branch off (thin yellow arrows) (D), ending with tracheoles in close contact with tissues. The fat body is a uniform mass of aggregated lobes surrounding the alimentary canal (perivisceral fat body) or beneath the body wall (peripheral fat body). After isolation, some tracheae and perivisceral fat body lobes attached to the gut are visible (E). Arrowheads: Malpighian tubules; asterisk: ampullary structure. Scale bars: 5 mm (D), 2 mm (B), 1 mm (C, E).
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+Once the larva is cut open (Figure 12C), the organs and tissues of interest should be isolated in ice-cold physiological solution under a stereomicroscope. Organs and tissues are embedded together by the tracheal trunks and should be finely and delicately separated using fine forceps as described below. Depending on the analysis, the selection of the physiological solution is critical. In particular, its composition must be as close as possible to the pH and osmolarity of BSFL haemolymph. Moreover, if it is mandatory to preserve membrane protein integrity (e.g. for their analysis through electrophoresis), protease inhibitors must be added, unless samples have been isolated to analyse protease activity. As BSFL haemolymph has a neutral pH and its osmolarity is 300 mOsm/l (Kurio et al., 2024; Natochin and Parnova, 1987), PBS can be used.
+5 The alimentary canal: isolation of samples for morphofunctional analyses
+
+The alimentary canal occupies major part of the BSFL body cavity. Although this organ can be easily identified after dissecting the larva, attention and good manual skills are required to isolate it. The protocol for isolating the alimentary canal is detailed in Figure 14.
+Figure 14
+Figure 14
+
+Isolation of the gut from black soldier fly larvae. After dissecting the larva as indicated in Figure 12, the folded gut is gently removed from the carcass with the help of forceps (endowed with round tips to avoid damaging gut tissues and peritrophic matrix (PM)) (A) and laid on a polystyrene foam tablet covered with parafilm (B). The terminal part of the hindgut is cut with sharp fine scissors (B) and the gut is transferred to a Petri dish containing ice-cold PBS by using forceps (C). Once the gut has been gently untangled (D, on the left) and the fat body and tracheae gently removed with the aid of forceps and scissors (D, on the right), the different regions of the organ can be clearly identified (Figure 12A–B). The detailed method for isolating specific gut or midgut regions is reported in Bruno et al. (2019b) and Bonelli et al. (2019). To separate the luminal content enclosed in the PM from the midgut epithelium, the latter must be delicately cut lengthwise to avoid PM damage and content loss. Both PM and epithelium should be gently blotted on filter paper before use or storage. Scale bars: 2 mm in (A–B), 1 cm in (C–D).
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+Measurement of digestive enzyme activity
+
+The activity of digestive enzymes from BSFL midgut can be measured spectrophotometrically using midgut juice (MJ, i.e. the supernatant obtained by centrifuging peritrophic matrix (PM) with its content at 15 000 ×g for 10 min at 4 °C) for luminal enzymes or, for membrane-bound enzymes such as aminopeptidase N (APN), midgut epithelium homogenates (Table 1). Nevertheless, homogenates of whole larvae may be used to measure digestive enzyme activity (Guillaume et al., 2024); this approach can be useful when performing assays on early instar larvae (i.e. when they are too small to isolate the gut). However, although the digestive activity of the midgut should account for most of the measured activities, its real contribution cannot be determined when whole larvae homogenates are used. Moreover, this starting material requires the addition of melanisation (i.e. N-Phenylthiourea (PTU)) inhibitors and protease inhibitors that may interfere with the assays (e.g. proteolytic activity cannot be measured). Both fresh or frozen (after thawing at 4 °C) midgut epithelium or MJ can be used. The storage of samples is critical for the success of any subsequent analyses. It is recommended to store the midgut epithelium in liquid nitrogen and MJ at –80 °C and use them within six months after the isolation.
+Table 1
+Table 1
+
+Digestive enzyme assays
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+Prior to use, thawed MJ must be centrifuged at 15 000 ×g for 10 min at 4 °C; then, protein concentration of the supernatant must be determined with standard methods (e.g. the Bradford method; Bradford, 1976). Depending on the midgut tract and the rearing substrate, protein concentration of MJ typically ranges from 0.2 to 4 mg/ml.
+
+Enzyme activity is significantly influenced by temperature, pH, and ionic strength. For this reason, the optimal in vitro condition for performing enzymatic assays should reproduce the in vivo condition as closely as possible (Bonelli et al., 2019; Rivera-Ciprian et al., 2017; Santana et al., 2017; Sharifloo et al., 2016; Zibaee, 2012). Nevertheless, depending on the aim of the study and the chemico-physical properties of the selected substrates, these three parameters can be modified accordingly (e.g. azocasein precipitates at pH values lower than 5; therefore, measurements of proteolytic activity with this substrate can be performed only at pH ≥ 5, regardless of the in vivo luminal pH value). For those enzymes that are active in the midgut lumen, it must be considered that in vivo luminal pH values range from 2 to 8 (Bonelli et al., 2019); for this reason, especially if the same enzymatic activity needs to be measured in MJ samples from the three midgut districts (i.e. anterior, middle, and posterior midgut, whose luminal pH are 6, 2 and 8, respectively), Universal Buffer (UB) is the optimal choice as it maintains a constant ionic strength in a wide range of pH values (from 2.0 to 11.7) (see Table 2 for UB preparation). However, UB is not suitable for all the assays because some chemicals in this buffer can interfere with the enzyme activity, as occurs for amylase, lysozyme, and APN. For instance, the activity of APN is reduced when the assay is performed in UB compared to that measured with the most common buffer used to measure the activity of this enzyme (i.e. 50 mM Tris-HCl, pH 7.5).
+Table 2
+Table 2
+
+Preparation of Universal Buffer at different pH values
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+It must be highlighted that BSFL have gregarious habits, and they form clusters within the feeding substrate in which the temperature is higher than 40 °C due to larval overcrowding and heat generated by their movement (Parra Paz et al., 2015). For this reason, a temperature around this value must be chosen for enzymatic assays to better mimic in vivo conditions. Indeed, it has been observed that the optimum temperature for BSFL digestive enzymes is around 45 °C (Bonelli et al., 2019; Kim et al., 2011).
+
+The protocols developed in previous studies (Bonelli et al., 2019, 2020; Bruno et al., 2025c) to measure digestive enzyme activities are detailed below. All the solutions are prepared with ultrapure water, unless otherwise specified. All assays should also be performed on samples upon protein denaturation (e.g. samples can be boiled for 10-15 min) to verify the occurrence of background “noise” that must be measured and considered in calculating enzyme activity (Bonelli et al., 2019).
+Total proteolytic activity in the midgut juice of BSFL
+
+The protocol is as follows:
+
+    ∙ dispense different volumes of MJ in 1.5-ml tubes. It is recommended to use at least five volumes of MJ to have protein amounts ranging from 0 (blank) to 10 μg (in case of very small volumes, dilute the MJ with UB at the appropriately selected pH). At least two technical replicates should be performed for each sample;
+    ∙ adjust the volume to 100 μl with UB and add 200 μl 1% azocasein (w/v in UB, freshly prepared every day and protected from light) to each tube. For middle midgut, UB at pH 5.0 should be used as azocasein does not dissolve at lower pH;
+    ∙ incubate in the dark for 30 min at 45 °C;
+    ∙ to stop the reaction and precipitate undigested azocasein, transfer the tubes to 4 °C, add 300 μl ice-cold 12% (v/v) trichloroacetic acid (TCA) and incubate for 30 min;
+    ∙ centrifuge at 15 000 ×g for 10 min at 4 °C, collect the supernatant in a new tube, and measure its volume; neutralise with an equal volume of 500 mM NaOH and measure the absorbance in a spectrophotometer at 440 nm using 1-ml polystyrene or acrylic cuvettes;
+    ∙ calculate the mean of the technical replicates and subtract the absorbance value of the blank sample from the absorbance value of each sample. Plot the absorbance values on the y-axis and the corresponding amount (in μg) of sample proteins on the x-axis to obtain a linear regression line; the selected amounts of sample must guarantee a linear relationship between the amount of sample proteins (μg) and the measured enzymatic activity (if this is not the case, repeat the experiment choosing more appropriate sample volumes);
+    ∙ as U=ΔAbs/(min × mg sample protein × 0.1) and the slope of the regression line is: m=ΔAbs/(μg sample proteins) in 30 min, it follows that: U=(m×1000)∕(30min×0.1)=m×333.3.
+
+Trypsin and chymotrypsin activity in the midgut juice of BSFL
+
+    ∙ dispense different volumes of MJ in 1.5-ml tubes. It is recommended to use at least five volumes of MJ to have protein amounts ranging from 0 (blank) to 5 μg (in case of very small volumes, dilute the MJ with UB). At least two technical replicates for each sample should be performed;
+    ∙ adjust the volume to 300 μl with UB and add 300 μl 10 mM SAAPPpNA (in UB) or 10 mM BApNA (prepare 100 mM stock in DMSO and dilute to 10 mM with UB) in each tube;
+    ∙ vortex and incubate in the dark for 10 min at 45 °C;
+    ∙ add 600 μl ice-cold 12% (v/v) TCA to each tube to stop the reaction; then, vortex and centrifuge at 15 000 ×g for 5 min at 25 °C (this step has to be repeated three times to measure chymotrypsin activity);
+    ∙ collect 1 ml of supernatant in a new 1.5 ml tube and incubate for 5 min at 25 °C in the dark; then, transfer the samples in 1-ml polystyrene or acrylic cuvettes and measure the absorbance at 405 nm;
+    ∙ to calculate enzymatic activity units, proceed as described for total proteolytic activity, taking into consideration that the reaction time is 10 min. Therefore, U=(m×1000)∕(10min×0.1)=m×1000.
+
+α-Amylase activity in the midgut juice of BSFL
+
+Prepare the following solutions:
+
+    ∙ Amylase Buffer (AB): 20 mM sodium phosphate, 6.7 mM NaCl at pH 6.9 (adjust the pH with 1 M NaOH);
+    ∙ Substrate Solution (SS): 1% (w/v) soluble starch in AB. Heat SS solution to 100 °C, incubate for 15 min and allow to cool down to room temperature; add water to restore the initial volume. Freshly prepared SS must be used and it must be maintained under continuous stirring until use;
+    ∙ Colour Reagent Solution (CRS): heat 8 ml of 2 M NaOH solution to 50–70 °C and dissolve 12 g of sodium potassium tartrate tetrahydrate. Dissolve 0.438 of g 3,5-dinitrosalicylic acid (DNS) in 20 ml of hot (50–70 °C) water to obtain a 96 mM solution. Heat 12 ml of water to 50–70 °C and slowly add the 8 ml of sodium potassium tartrate solution and the 20 ml of DNS solution under continuous stirring. CRS must be kept in the dark and can be stored for up to six months at 4 or −20 °C.
+
+For the calibration curve:
+
+    ∙ put different volumes of 0.05% maltose (w/v in AB) solution in 1.5-ml tubes to have increasing amounts of maltose in each tube (from 0 for blank to 250 μg); then, adjust the volume to 685 μl with AB;
+    ∙ add 115 μl of CRS to each tube and incubate at 100 °C for 15 min; then, cool on ice for 3 min and incubate at 25 °C for 5 min;
+    ∙ transfer each sample to 1 ml polystyrene or acrylic cuvettes and measure the absorbance in a spectrophotometer at 540 nm;
+    ∙ subtract the absorbance value of the blank sample from all the absorbance values and plot the obtained absorbance on the y-axis and the corresponding μg of maltose on the x-axis to obtain a linear regression line.
+
+To perform the assay, proceed as follows:
+
+    ∙ dispense appropriate volumes of MJ (from 0 for blank to 20 μg, see total proteolytic activity method for details) in 1.5-ml tubes and adjust the volume to 595 μl with AB; then, add 90 μl of SS. Prepare controls for each sample (control samples do not contain SS, they contain the appropriate volumes of MJ and AB to reach a final volume of 685 μl); at least two technical replicates for each sample should be performed;
+    ∙ incubate in the dark for 30 min at 45 °C; then, add 115 μl of CRS and vortex;
+    ∙ incubate at 100 °C in the dark for 15 min, allow to cool on ice for 3 min, and then incubate for 5 min at 25 °C. Transfer samples to 1 ml polystyrene or acrylic cuvettes and measure the absorbance at 540 nm;
+    ∙ calculate the mean of the technical replicates and subtract the absorbance value of blank sample to the absorbance values of each sample;
+    ∙ calculate the amount (in μg) of maltose produced using the equation of the calibration curve. Plot the amount (in μg) of maltose on the y-axis and the corresponding amount (in μg) of proteins in each sample on the x-axis and calculate enzymatic units as: U=μg maltose released/(30 min × μg sample proteins).
+
+The protocol used to perform this assay on whole larvae homogenates is described in detail in Guillaume et al. (2024).
+Esterase and lipase activity in the midgut juice of BSFL
+
+This assay requires the use of a multi-well plate reader as it is necessary to simultaneously record absorbance of different samples for 1 h at constant temperature.
+
+    ∙ Prepare 50 mg/ml 4-nitrophenyl acetate solution (pNA) in absolute ethanol at 50 °C and protect it from light. Freshly prepared pNA solution must be used;
+    ∙ in a 96-well transparent plate, add 0 μl (blank sample) and from 1 up to 20 μl of MJ sample, 3.26 μl of pNA, and adjust the volume to 200 μl with UB (pH must be lower than 6.2 to prevent hydrolysis of the substrate); the selected sample volume must guarantee a linear relationship between the volume added and the measured enzymatic activity;
+    ∙ record the absorbance at 405 nm every min for 60 min at 45 °C;
+    ∙ subtract the absorbance value of the blank sample from the absorbance (A) values of each sample; then, calculate ΔA for each point as: ΔA=A[final (for each reading)]–A[initial (constant)] and divide it by the corresponding min of reaction. Calculate the mean of ΔA/min values when they are constant over time;
+    ∙ calculate enzymatic units per ml of sample volume as: U (ml) = (ΔA/min) × reaction volume (μl)/(sample volume (μl) × optical path (cm) ×ε), or mg sample proteins as: U (mg) = (ΔA/min) × reaction volume (μl)/(sample volume (μl) × optical path (cm) ×ε × sample protein concentration); ε=6 mM−1 cm−1
+
+Lysozyme relative activity in midgut juice of BSFL
+
+Prepare the following solutions:
+
+    ∙ 66 mM potassium phosphate buffer, pH 6.2 (adjust pH with KOH) (PPB); maintain the solution at 45 °C during the experiment;
+    ∙ 0.0165% (w/v) of Micrococcus lysodeikticus ATCC No. 4698 (Merck, Darmstadt, Germany) in PPB (substrate suspension); measure the optical density of SS at λ=450 nm, the result must range between 0.6 and 0.7; maintain temperature at 45 °C during the experiment.
+
+To perform the assay, proceed as follows:
+
+    ∙ in 1-ml polystyrene or acrylic cuvettes, add up to 20 μl sample to 980 μl of SS and adjust the volume to 1 ml with PPB; then, mix by inverting the cuvette;
+    ∙ measure the absorbance at 450 nm continuously for 5 min and determine ΔA/min; absorbance must decrease linearly over time;
+    ∙ calculate enzymatic units per ml of sample volume as: U (ml) = (–ΔA/min) × 1000/(volume of MJ (μl)), or mg sample proteins as: U (mg) = (–ΔAbs/min) × 1000/(volume of MJ (μl) × sample protein concentration).
+
+Aminopeptidase N activity in midgut homogenate of BSFL
+
+    ∙ Homogenise midgut samples at 4 °C in 100 mM mannitol, 10 mM Hepes-Tris, pH 7.2 (1 ml buffer/100 mg tissue) using a pestle suitable for 1.5-ml tubes;
+    ∙ in 1-ml polystyrene or acrylic cuvettes, add 50 mM Tris-HCl, pH 7.5 (800 μl, sample volume) and 200 μl of 20 mM l-Leu-p-nitroanilide; add sample volume (up to a maximum of 20 μl) and mix by inverting the cuvette;
+    ∙ measure the absorbance continuously for 3 min at 410 nm and determine ΔA/min; absorbance must increase linearly over time;
+    ∙ calculate enzymatic units as: U/ml = (ΔA/min × 1000)/(sample volume (μl) × optical path (1 cm) ×ε (9.9 mM−1 cm−1)); to obtain U/mg, divide U/ml by sample protein concentration.
+
+In vitro digestion model
+
+In vitro digestion models replicate digestion outside organisms and are widely used to study digestive processes in humans and farmed animals (Cheli et al., 2012; Minekus et al., 2014; Noblet et al., 2007). In vitro models have significantly contributed to optimising feed formulations in farmed animals and hold similar promise for BSFL bioconversion. So far, preliminary work on mimicking BSFL digestion is only available from Gold et al. (2020) (Figure 15). The general procedure consisted of preparatory work, the digestion procedure, and the digestion product analyses which could be used as a starting point for future work in this direction.
+Figure 15
+Figure 15
+
+In vitro digestion model developed in Gold et al. (2020). The model is preliminary and requires further development as it only adapted a few parameters from the human INFOGEST model. AMG, anterior midgut; MC, moisture content; MMG, middle midgut; PMG, posterior midgut.
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+In comparison to other farmed animals, no bespoke in vitro model for BSFL exists. This is due to the limited information on the digestive system of this insect, although this knowledge gap has been partially filled in recent years (Bonelli et al., 2019, 2020; Bruno et al., 2025b). As the BSFL alimentary canal presents some similarities to that of humans (e.g. a tract with a highly acidic pH), the INFOGEST 2.0 static in vitro model, for which a detailed line-by-line procedure exists, constitutes a good starting point. A static model uses fixed modelling values (e.g. temperature and residence time) and is appropriate in absence of information on the spatial and temporal dynamic changes of BSFL digestion. Therefore, Gold et al. (2020) determined the residence time of substrate in the different midgut regions and selected temperature and pH values, as reported in Bonelli et al. (2019). In addition, only BSFL-specific pH values and temperatures (37 °C, in a typical range of 33–45 °C reported by Bloukounon-Goubalan et al., 2019) have been considered so far. Digestion fluids, amylase, and proteases of human, porcine, and bovine origin of the human in vitro digestion model were used, and the potential role of bile salts, pepsin, and lipases discarded. Simulated digestion fluid amounts were changed, as using the same fluid volume as in the human digestion model would increase the costs of enzymes and compromise the determination of digestion products. In comparison to the doubling of the simulated digestion fluids with each gut region starting from a ratio of 1:1 (w diet:w fluid) in the INFOGEST 2.0 method, 1 ml of simulated digestion fluid was added per midgut region.
+
+It is essential that standard enzyme assays be conducted to verify the activity of commercially purchased enzymes and the stock solutions with the same substrate, pH, and temperature of the BSFL midgut to allow comparability (Brodkorb et al., 2019; Gold et al., 2020). The enzyme assays determine the correct enzyme concentration to ensure accurate dosing in the experiments. Assays also assess the enzyme’s purity, ensuring that contaminants do not interfere with results. Additionally, they verify enzyme stability over time, ensuring consistent performance throughout the study. Incorrect enzyme assays can result in incorrect rates of digestion of substrate components (e.g. proteins), potentially changing the overall digestion of the substrate. A prudent approach is to prepare enzyme solutions immediately before digestion and keep them on ice to minimise loss of activity. In addition, it is important to determine the amount of NaOH and HCl required to quickly change the pH to the level of the different digestion phases. Different substrates respond differently to the addition of acid and base due to different physicochemical properties. Adjusting the pH quickly is important to keep residence times similar among substrates and ensure the comparability of results.
+Static in vitro digestion
+
+The static BSFL in vitro digestion model involves exposing the substrate to three successive digestive phases, mimicking the anterior, middle, and posterior midgut (Figure 15). The physiological conditions are kept constant in each phase from and between substrates. Detailed protocols for the digestive phases are included in the Supplementary materials. One approach for evaluating in vitro digestion model outcomes is by determining the nutrients in digestion products. Consequently, Gold et al. (2020) used substrate digestibility (i.e. pellet dry mass after centrifugation) and supernatant nutrients. Lower pellet dry mass and higher substrate nutrients content could indicate higher substrate digestibility. Using these indicators to rank in vitro digestion of substrates for BSFL showed a reasonable alignment with in vivo results, although discrepancies in performance were observed for certain substrates (Gold et al., 2020). Future work may enhance the accuracy of in vitro models by better aligning this model with BSFL digestive physiology, and with substrate and frass, as well as with midgut microbiota interactions. The latter have not been sufficiently considered in the human in vitro model and could be transferred from established in vitro models that include microbial fermentation (e.g. RUSITEC).
+Ingestion, egestion, and gut region residence time
+
+Enhancing our understanding of substrate ingestion, egestion, and gut residence times is crucial for improving the efficiency and reliability of substrate bioconversion by BSFL and for refining in vitro models. These times can be estimated by adding nano- (<1 μm) and microplastics (<5 mm), as well as dyes to the feeding substrate, which serve as models for tracking solid and liquid substrate constituents (Figure 16). First, particles and/or dyes must be chosen based on the research question. Gold et al. (2020) utilised a blue dye that colours both the liquid and solid components of the substrate, presumably serving as a better indicator for liquid uptake, progression, and egestion. In contrast, Lievens et al. (2023) employed insoluble microplastics (61.5 μm). It is then important to define dye and/or particle concentrations according to the research questions and mix them with the substrate. Gold et al. (2020) used 0.05% (w/w) Blue 1 in the substrate, while microplastic concentrations were set to enable rapid particle uptake from the substrate (50 000 particles/g, 15 and 58 μm, unpublished data). To assess progression, rear BSFL on substrate devoid of dye and/or particles first. Then, move the larvae on the same substrate spiked with dye and/or particles and sample the larvae at defined time intervals. Gold et al. (2020) sampled at 10, 20, 40, 60, 90, 120, 150 and 180 min, but time ingestion rates can vary depending on rearing conditions (e.g. substrate, temperature, etc.) and should be selected based on preliminary experiments. To study egestion, transfer larvae to substrate without dye and particles and monitor dye and/or particles release from the body. Sampling should be conducted similarly to the ingestion phase with sampling intervals based on preliminary experiments. For optimal data quality, larvae that are currently moulting (easily identified by a double cuticle) and not actively feeding should be excluded from the analysis.
+Figure 16
+Figure 16
+
+Visualisation of Blue 1 dye along the midgut. Midgut residence times can be determined by monitoring the foremost dye position during ingestion and egestion. In the image the foremost dye position is in the middle midgut. AMG, anterior midgut; MMG, middle midgut; PMG, posterior midgut. Scale bar: 5 mm.
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+Identification and quantification of dye and/or particles
+
+The approach for identifying and quantifying dye and/or particles depends on the characteristics of the model dye and/or particles. Dye and fluorescent microplastic uptake, progression, and egestion can be assessed using a stereomicroscope and a fluorescent microscope following dissection, respectively (Gold et al., 2020; Heussler et al., 2024; Lievens et al., 2023). For metal-doped nanoplastics, metal concentrations can be determined by inductively coupled plasma-mass spectrometry (ICP-MS), with or without dissection (Mitrano et al., 2019).
+6 Isolation of haemocytes and selected assays for the analysis of the immune response
+
+Knowledge on the cellular and humoral processes that underlie immune responses in BSFL is mandatory for investigating the defence mechanisms that are elicited by the insect to cope with pathogens and parasites. Moreover, this information can represent a starting point for exploring the modulation of the immune response by external factors, such as the composition of the feeding substrate, rearing temperature, and larval density.
+
+For studying the immune system, last instar larvae can be conveniently used as a significant amount of haemolymph can be isolated for the different assays described below. Before collecting haemolymph, larvae must be disinfected with 70% ethanol (in distilled water, v/v). Subsequently, haemolymph is collected by puncturing the larvae with a sterile needle between the first and second thoracic metamere and then gently squeezing the body. It is possible to collect 40 ± 5 μl of haemolymph from larvae reared on chicken feed. To avoid melanisation, it is recommended to collect the haemolymph in a 1.5-ml tube on ice. Anticoagulant and antimelanisation molecules (e.g. PTU) or buffers may be added to the collection tubes (Becchimanzi et al., 2020) as indicated below.
+
+To activate the immune response, a 5 μl suspension of microorganisms (Escherichia coli and Micrococcus luteus have been commonly used so far; stock suspension can be diluted with sterile PBS at the working concentration) can be injected into the larval body cavity between the third last and penultimate abdominal metamere. Before the injection, larvae must be carefully washed with tap water to remove diet debris, then with 0.5% sodium hypochlorite (in tap water, v/v) and 70% ethanol (in distilled water, v/v). The disinfectant solutions must then be removed from the larvae by washing them twice with sterile distilled water. Naïve (i.e. non-injected) larvae can be used as controls (Bruno et al., 2021, 2023). After the injection, larvae must be kept in sterile Petri dishes at 27 ± 0.5 °C and 70 ± 0.5% relative humidity without food to avoid superinfections.
+
+The protocols for the analysis of different markers of the cellular and humoral responses are reported below. Detailed information can be found in Bruno et al. (2021, 2023).
+Markers of cellular immunity
+Total haemocyte count
+
+    ∙ Dilute the haemolymph (1:10) with 0.4% Trypan blue (w/v in water; a ready-to-use solution is commercially available);
+    ∙ load 10 μl of the diluted sample into a Bürker chamber;
+    ∙ count the haemocytes by using an optical microscope (20 × magnification) and determine the total number of cells/ml as follows:
+
+Haemocytesml=((∑haemocytescountedinsquareN)×dilutionfactor×104)∕numberofsquare
+Analysis of phagocytosis
+
+Using this assay the rate of phagocytosis of foreign agents in the BSF haemocoel can be monitored in vivo by identifying engulfed fluorescent bacteria in haemocytes. Assays to evaluate phagocytosis in vitro have not been developed for BSF yet; nevertheless, protocols optimised in other insects are available (Becchimanzi et al., 2020).
+
+    ∙ Inject 5 μl fluorescent (e.g. GFP or RFP) or pHrodo™-conjugated bacteria (0.2 mg/ml) into the larva, as reported above;
+    ∙ extract the haemolymph within 6 h after injecting bacteria, as described above;
+    ∙ load 200 μl haemolymph on a round glass coverslip and incubate for 15 min in the dark to allow cell adhesion;
+    ∙ discard the supernatant and fix the haemocytes with 4% paraformaldehyde (w/v in sterile PBS) for 5 min;
+    ∙ wash twice with sterile PBS;
+    ∙ incubate the sample with DAPI (100 ng/ml in PBS) for 5 min and then wash three times with PBS;
+    ∙ mount the coverslip on a glass slide with Citifluor (Citifluor, London, UK);
+    ∙ analyse the sample under a fluorescent microscope.
+
+Bead encapsulation assay
+
+The following protocol is used for investigating the encapsulation of agarose and dextran beads after their injection in the larval haemocoel, over time.
+
+    ∙ Wash B-Agarose, B-Sephadex G-100, CM-Sephadex C-25, or DEAE Sephadex A-25 (Merck) beads in a 1.5-ml tube with sterile PBS and centrifuge at 1620 ×g for 2 min. Repeat three times and then resuspend the beads in the same buffer at a concentration of 5 beads/μl;
+    ∙ inject 5 μl bead suspension into the larva, as reported above;
+    ∙ extract the haemolymph 2, 4, 14, and 24 h after injecting the beads, as described above;
+    ∙ dilute the haemolymph 2:1 (v/v) with Schneider’s Insect Medium;
+    ∙ add 100 μl of the sample to a 96-microwell plate and evaluate encapsulation by using an inverted microscope.
+
+Markers of humoral immunity
+proPhenolOxidase (proPO) system activity
+
+This assay is used to monitor the activity of the proPO system, which leads to melanin production in the larva’s haemolymph, over time.
+
+    ∙ Collect the haemolymph in a 1.5-ml tube as reported above and centrifuge the sample at 250 ×g for 5 min at 4 °C;
+    ∙ collect the supernatant (cell-free fraction (CFF)) and transfer it to a new 1.5-ml tube;
+    ∙ add 10 μl sample to 990 μl 8 mM L-Dopa (l-3-4 dihydroxyphenylalanine) in 10 mM Tris-HCl, pH 7.4, in a 1.5-ml cuvette;
+    ∙ incubate the sample at room temperature for 10 min;
+    ∙ gently inverte the cuvette and measure the absorbance at 490 nm every 10 min for 1 h with a spectrophotometer;
+    ∙ determine the increase in absorbance over time (ΔA) in the linear range of the curve within 60 min.
+
+Lysozyme relative activity
+This assay is based on the use of M. lysodeikticus as substrate for lysozyme.
+
+    ∙ Collect the haemolymph in a 1.5-ml tube with a few PTU crystals;
+    ∙ centrifuge the sample at 250 ×g for 5 min at 4 °C and transfer the CFF to a new tube with some PTU crystals. Repeat this step twice;
+    ∙ centrifuge the sample at 1600 ×g for 10 min at 4 °C;
+    ∙ collect the supernatant and dilute it 1:10 with sterile PBS;
+    ∙ resuspend M. lysodeikticus (Merck) in 30 mM phosphate buffer (0.4 M K2HPO4, 0.2 M KH2PO4, pH 7.2) to a final concentration of 0.45 mg/ml. Let bacteria grow at room temperature for about 30 min until an optical density of 0.6–0.7 is reached, measured at 600 nm;
+    ∙ in a 96-microwell plate mix:
+    - 100 μl sample with 150 μl M. lysodeikticus (Sample)
+    - 100 μl 30 mM phosphate buffer with 150 μl M. lysodeikticus (Blank)
+    - 100 μl sample and 150 μl 30 mM phosphate buffer (Control)
+    ∙ measure the absorbance at 450 nm every 30 sec for 10 min;
+    ∙ calculate the lysozyme relative activity as follows:
+
+Unitsmlenzyme=(ΔA450∕minSample−ΔA450∕minBlank)×df0.001×volumein1mlsamplesolution
+where ΔA450/min Sample is the final absorbance value after the subtraction of the Control from the Sample value; df is the dilution factor.
+Analysis of the antimicrobial activity of the haemolymph
+
+By using the following two assays, antimicrobial activity of the whole haemolymph (counting of colony forming units (CFU) by spread-plating method) or of the CFF (CFU counting by track-dilution method) can be evaluated.
+
+To count CFU by applying the spread-plating method:
+
+    ∙ prepare selective or Luria-Bertani (LB) agar plates according to the bacteria used for the infection;
+    ∙ collect the haemolymph at 6, 14, 24, and 48 h after the infection and dilute it 1:10 with sterile PBS;
+    ∙ plate 100 μl suspension and incubate the plates at 37 °C for 24–48 h;
+    ∙ count the colonies and calculate the CFU/ml as No. of colonies × df.
+
+To count CFU by applying the track-dilution method:
+
+    ∙ prepare selective or LB agar plates according to the bacteria used for the infection;
+    ∙ isolate the haemolymph at 6, 14, 24 and 48 h after the infection, centrifuge it at 250 ×g at 4 °C, and collect the CFF;
+    ∙ incubate 10 μl CFF with 90 μl of the bacteria used for the infection (final concentration of 106 CFU/ml) at 37 °C for 3 h. In parallel, incubate the same bacterial concentration with sterile PBS as control, and with CFF obtained from naïve larvae, for 3 h;
+    ∙ dilute serially all the specimens and drop 10 μl of each diluted sample onto agar plates;
+    ∙ tilt the plates to allow drops to flow downward;
+    ∙ incubate the plates overnight at 37 °C;
+    ∙ count the colonies in each plate and calculate the bacterial concentration as follows:
+
+CFUml=No.ofcolonies×10×df
+Isolation and identification of antimicrobial peptides (AMPs) using liquid chromatography-mass spectrometry (LCMS)
+
+BSFL, which thrive in environments rich in decaying organic matter and are constantly exposed to diverse microbial communities, present a unique opportunity for studying AMPs (Herman et al., 2024; Scieuzo et al., 2023; Vogel et al., 2018). Their ability to produce a wide variety of AMPs highlights their robust immune defence system, making this insect an excellent model for exploring novel antimicrobial compounds and understanding their roles in adapting to microbe-rich habitats (Herman et al., 2024; Moretta et al., 2020; Scieuzo et al., 2023; Vogel et al., 2018). In addition, a comprehensive knowledge of AMPs in BSFL could be useful for enhancing their immune response and thus their resilience in mass rearing (De Smet et al., 2018; Zdybicka-Barabas et al., 2017) as well as for developing new strategies to counteract infectious diseases in livestock and poultry. Indeed, AMPs produced by BSFL offer promising solutions due to their broad antimicrobial spectrum, thermal stability, and ability to target drug-resistant bacteria without harming eukaryotic cells (Xia et al., 2021).
+
+More than 50 AMP genes have been identified in BSFL using RNA sequencing (RNAseq) (Herman et al., 2024; Moretta et al., 2020; Vogel et al., 2018) and over 30 AMPs through mass spectrometry analysis of the haemolymph (Herman et al., 2024; Scieuzo et al., 2023). The number of AMPs in BSFL, both at the RNA and protein level, varies depending on the larvae’s diet and exposure to different microorganisms (Herman et al., 2024; Rhode and Greenwood, 2023; Scieuzo et al., 2023; Vogel et al., 2018). RNA can be extracted from fat body, haemocytes, or midgut to characterise AMP expression by RNAseq or quantitative PCR (qPCR), as described in Section 7.
+
+AMP can be extracted from BSFL haemolymph for mass spectrometry and functional analysis as follows:
+
+    ∙ mix 100% methanol, glacial acetic acid, and ultrapure water in a 90:1:9 ratio. Combine collected haemolymph with the solvent mixture in a 1:9 ratio (1 part sample to 9 parts solvent), and mix thoroughly;
+    ∙ centrifuge the mixture at 16 000 ×g for 45 min at 4 °C. Collect the supernatant, which contains lower-molecular-weight compounds;
+    ∙ remove the organic solvent from the collected supernatant through a nitrogen evaporator sample concentrator. Resuspend the dried extract in sterile, ultrapure water;
+    ∙ add an equal volume of hexane to the resuspended solution;
+    ∙ vortex the mixture and centrifuge at 16 000 ×g for 20 min at 4 °C;
+    ∙ remove and discard the upper layer containing lipids and retain the lower aqueous layer containing peptides;
+    ∙ for functional assays, vacuum dry the sample and resuspend the dried extract in sterile water;
+    ∙ store the peptide extract at –20 °C until further use.
+
+7 Key aspects of RNA and protein extraction
+
+The evaluation of gene expression or identification of a specific protein in BSF samples strongly depends on the quantity and quality of the starting material (i.e. RNA and proteins, respectively). Protocols that can help to optimise the isolation of RNA and proteins are reported below.
+RNA extraction
+
+To preserve RNA integrity, tissue and cells must be isolated with sterilised equipment, and specific decontaminating solutions (e.g. RNase AWAY™ from Thermo Scientific, Waltham, MA, USA or Merck, RNaseZAP™ from Merck) should be used if applicable (e.g. bench-tops, micropipettes, glassware, and pestles).
+
+To obtain 50–100 μg of total RNA from BSFL midgut or fat body, 30-60 mg of tissue are generally needed. To obtain 10 μg of total RNA (values referred to experiments conducted on larvae reared on chicken feed), 1 × 106 haemocytes (collected from about 100 larvae) are needed instead.
+
+After isolating the midgut and fat body (see Sections 4 and 5), samples can be stored in RNA stabilising solutions (e.g. RNAlater™ from Thermo Scientific or Merck, DNA/RNA shield from Zymo Research, Irvine, CA, USA) at –80 °C until use. Before RNA extraction, samples must be quickly washed with autoclaved diethylpyrocarbonate (DEPC)-treated water (ready-to-use solution can be commercially purchased or alternative protocols to prepare it are available online) or RNase-free water to remove any residue of the RNA stabilising solution that may affect the quality of the extracted RNA.
+
+In contrast, for haemocytes collection, haemolymph must be poured onto a sterile tissue culture Petri dish (60 mm in diameter) to promote haemocyte adhesion. After incubating for 10 min in the dark (to avoid proPO activation), the plasma is discarded, and fat body debris is removed with two washes with Schneider’s Insect Medium. After the addition of 1 ml of TRIzol™ Reagent (Thermo Scientific) to the adhered cells, haemocytes are homogenised with a cell scraper and the liquid phase is recovered. Samples can be stored at –80 °C until use.
+
+Total RNA can be extracted using TRIzol™ Reagent or commercially available kits (e.g. such as PureLink™ RNA Mini Kit (Thermo Scientific) or Monarch® Total RNA Miniprep Kit, New England Biolabs, Ipswich, MA, USA), following the manufacturer’s instructions. To improve the quantity of total RNA, midgut and fat body samples -both fresh or thawed- should be ground with a pestle and mortar in liquid nitrogen or homogenised with a homogeniser (e.g. T10 basic ULTRA-TURRAX; IKA, Staufen im Breisgau, Germany).
+
+RNA quality can be checked on 1–1.5% agarose (w/v in TAE buffer, 40 Tris-acetate, 1 mM EDTA, pH 8.3) gels. As gel profiles vary among insect species (DeLeo et al., 2018), the RNA profile for BSFL is reported in Figure 17 for the sake of clarity. The three visible bands correspond to 28S (faint band between 2000 and 1500 bp), 18S (brighter band between 1500 and 1000 bp), and 5.8S (very faint band of about 200 bp) rRNA subunits.
+Figure 17
+Figure 17
+
+Profile of total RNA on agarose gel. Profile of total RNA extracted from the BSFL midgut with PureLink™ RNA Mini Kit (A) or TRIzol™ Reagent (B). Here, 1 kb DNA Ladder (lane 1) and 1 μg of total RNA (lane 2) have been run on a agarose gel (1.5% (w/v) in TAE buffer). The same profile is obtained for fat body or haemocytes samples.
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+RNA quality (i.e. 260/280 and 260/230 ratios) can be determined with Nanodrop™ and concentration with Nanodrop™ or Qubit Fluorometer (Thermo Scientific) following the manufacturer’s instructions. The second instrument allows more precise quantification and should be preferred.
+
+The obtained RNA can be used for RNAseq or other purposes, such as PCR and qPCR. For RNAseq, RNA quality must be checked by evaluating the RNA integrity number (RIN) with specific instruments, such as Bioanalyzer (Agilent Technologies, Santa Clara, CA, United States of America) or outsourcing the evaluation to a next-generation sequencing service.
+Reverse trascription-polymerase chain reaction (RT-PCR)
+
+For RT-PCR or RT-qPCR experiments, RNA must be retrotranscribed using reverse transcriptase. Several kits are available for reverse transcription (total or mRNA-enriched). Optimally, 1–2 μg of total RNA is the amount to be used. Retrotranscription efficiency can be checked by PCR amplification of a housekeeping gene. With some kits, retrotranscription can be skipped for both PCR and RT-qPCR applications (i.e. one-step RT-PCR and one-step RT-qPCR).
+
+The most common and tested housekeeping genes for BSF are listed in Table 3.
+Table 3
+Table 3
+
+List of the most frequently used housekeeping genes, primer sequences, and related references
+
+Citation: Journal of Insects as Food and Feed 2025; 10.1163/23524588-20250002
+
+    Download Figure
+    Download figure as PowerPoint slide
+
+Protein extraction for SDS-PAGE
+
+For high-quality protein extraction, 20–40 mg of midgut or fat body should be used. After collection, samples can be frozen in liquid nitrogen and stored at −80 °C until use or immediately transferred to a 2-ml tube for homogenisation on ice. We recommend the following protocol for tissue homogenisation: add cold RIPA lysis buffer (150 mM NaCl, 2% NP-40, 0.5% sodium deoxycholate, 0.1% sodium dodecyl sulphate (SDS), 50 mM Tris, pH 8), 100× protease inhibitor cocktail (1× final concentration; Thermo Fisher Scientific, Waltham, MA, USA), phosphatase inhibitors (1 mM sodium orthovanadate, 5 mM sodium fluoride), and EDTA (5 mM final concentration) to the samples, and homogenise them with a homogeniser (e.g. T10 basic ULTRA-TURRAX, IKA) or with a pestle and mortar. To improve protein extraction, use 7 μl RIPA/mg tissue. Put the tube at 4 °C and gently shake it with a rotator shaker for 1 h. To eliminate tissue debris, centrifuge the samples at 15 000 ×g for 15 min at 4 °C and transfer the supernatant to a new 1.5-ml tube. After quantifying protein concentration according to the Bradford method (Bradford, 1976), the sample can be used for SDS-PAGE.
+8 Gut, fat body, and haemocyte processing for morphological and ultrastructural analysis
+
+Although morphological studies on insects can be performed by processing and sectioning the entire body, the cuticle can significantly impair penetration of the fixative, thus compromising fixation and potentially leading to artifacts. For this reason, we recommend isolating organs and tissues from the larva (see Section 5 for details) and processing them separately, thus ensuring a higher quality of specimens suitable for morphological and ultrastructural analyses. For processing the larval gut and fat body, as well as the adult gut, the same procedure can be used. Additionally, unlike the midgut and fat body, processing haemocytes requires careful handling of the samples (i.e. gentle centrifugation and aspiration of solutions from tubes to prevent morphological alterations or cell damage).
+
+Gut tracts and fat body, as well as haemolymph (isolated as reported in sections 5 and 6, respectively) can be processed in 1.5-ml tubes as described below, unless otherwise specified. Fixation and embedding procedures reported below are suitable for both optical and transmission electron microscopy analyses.
+Gut and fat body
+
+Use a 1-ml working solution for each step.
+
+    ∙ Fix the samples in 4% glutaraldehyde in 0.1 M Na-cacodylate buffer (adjusted to pH 7.4 with HCl) for 2 h at room temperature, and then overnight at 4 °C;
+    ∙ wash the samples in 0.1 M Na-cacodylate buffer (five washes, 5 min each) and incubate them with 1% osmium tetroxide (OsO4) in 0.1 M Na-cacodylate buffer for 1 h in the dark;
+    ∙ after five washes of 5 min each in 0.1 M Na-cacodylate buffer, dehydrate samples in a graded series of ethanol: 70% ethanol for 30 min, saturated uranyl acetate in 90% ethanol (filtered with a 0.2-μm syringe filter before use) for 30 min in the dark, twice in 100% ethanol for 15 min;
+    ∙ infiltrate samples in propylene oxide/Epon-Araldite 812 mixture resin (ratio 1:1) for 1 h; then, discard the liquid and move the samples to new tubes. Leave the tube open under the fume hood for at least 1 h to let propylene oxide residues evaporate. Add pure Epon-Araldite 812 mixture resin to the samples and incubate overnight at room temperature;
+    ∙ (a) gut: transfer the specimens to embedding moulds and cover them with fresh resin; (b) fat body: remove as much resin as possible, cover the samples with new resin, and centrifuge for 10 min at 12 000 ×g;
+    ∙ allow resin to polymerise overnight at 70 °C.
+
+Haemocytes
+
+    ∙ Add 500 μl 2% glutaraldehyde in 0.1 M Na-cacodylate buffer to 500 μl haemolymph and let the sample fixate for 1 h at room temperature. Then, pellet haemocytes at 100 ×g for 10 min, remove 900 μl supernatant, add 400 μl fresh 1% glutaraldehyde in 0.1 M Na-cacodylate buffer, and incubate overnight at 4 °C;
+    ∙ centrifuge the sample at 220 ×g for 10 min, remove 450 μl supernatant, add 450 μl 0.1 M Na-cacodylate buffer, and incubate for 5 min. Repeat the washing step twice;
+    ∙ remove 450 μl of supernatant, add 200 μl of 1% OsO4 in 0.1 M Na-cacodylate buffer, and incubate for 20 min in the dark. The cell pellet becomes dark after treatment with OsO4, facilitating removal of the supernatant. Centrifuge the sample at 220 ×g for 10 min and repeat the washing step (see previous point) by using 200 μl 0.1 M Na-cacodylate buffer;
+    ∙ remove the supernatant and proceed with sample dehydration in a graded series of ethanol, using 200 μl for each solution: 20% ethanol for 10 min, followed by centrifugation at 220 ×g for 10 min; 50% ethanol for 10 min, followed by centrifugation at 350 ×g for 10 min; 70% ethanol for 10 min, followed by centrifugation at 600 ×g for 10 min; filtered saturated uranyl acetate in 90% ethanol for 30 min in the dark, followed by centrifugation at 600 ×g for 10 min; and 100% ethanol for 10 min, followed by centrifugation at 600 ×g for 10 min;
+    ∙ incubate the cell pellet in 200 μl propylene oxide/Epon-Araldite 812 mixture resin (ratio 1:1) for 30 min and centrifuge at 1680 ×g for 10 min. Then, carefully remove the supernatant and allow propylene oxide residues to evaporate from the tube by leaving it open under the fume hood for 10 min;
+    ∙ add 200 μl pure Epon-Araldite 812 mixture resin to the tube and incubate for 1 h. Then, centrifuge at 12 000 ×g for 10 min and allow resin polymerisation overnight at 70 °C.
+
+Optical microscopy analysis
+
+Cut semi-thin sections (600-nm-thick) with an ultramicrotome and collect them in 20% ethanol on glass slides. Let them dry on a hotplate and remove resin with a sodium methoxide solution (0.5 M NaOH in 100% ethanol, 9 mM sodium methoxide, 1:1). Wash sections with distilled water and stain them with 1% (w/v) crystal violet and with 0.13% (w/v) basic fuchsin or other histological dyes (e.g. toluidine blue). Mount the coverslip with Eukitt® or other quick-hardening mounting medium.
+Transmission electron microscopy analysis
+
+Cut ultrathin sections (70-μm thick) with an ultramicrotome and collect them on copper grids. Stain sections as follows: 4 min Pb(II)-citrate, 10 washes with ultrapure water, 8 min saturated uranyl acetate, ten washes with ultrapure water, 4 min Pb(II)-citrate, and 10 washes with ultrapure water. Pb(II)-citrate and uranyl acetate must be prepared in ultrapure water and filtered with 0.2-μm syringe filter before use.
+*
+
+Corresponding authors; e-mail: silvia.caccia@unimi.it; morena.casartelli@unimi.it; gianluca.tettamanti@uninsubria.it
+Acknowledgements
+
+This paper is part of the BugBook project, initiated by the working group on Standardisation of methods, parameters and terminology in insect research of the EAAP commission on insects. Scientific support from CRIETT center of University of Insubria (instrument code MIC01) is greatly acknowledged.
+Conflict of interest
+
+The authors declare no conflict of interest.
+Data availability
+
+The authors confirm that the data supporting the findings of this study are available within the article and its supplementary materials.
+Funding
+
+This work was supported by Fondazione Cariplo (grant number 2020-0900 and 2022-0631), Italian Ministry of University and Research PRIN 2020 (Prot. 2020ENH3NZ), and PRIN 2022 PNRR (Prot. P2022MZAF8; “Finanziamento dell’Unione Europea – NextGenerationEU – PNRR Missione 4, Componente 2, Investimento 1.1”).

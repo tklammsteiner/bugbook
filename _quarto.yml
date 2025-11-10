@@ -1,0 +1,40 @@
+title: "BugBook: Setting the gold standard for research on farmed insects "
+date: 2025-11-10
+author:
+  - name: T. Klammsteiner
+    orcid: 0000-0003-1280-5159
+    email: thomas.klammsteiner@uibk.ac.at
+    affiliation: "Department of Ecology, Universität Innsbruck"
+    url: https://tklammsteiner.github.io
+keywords: ["BugBook", "Insects as food and feed", "Insect farming", "Standardization"]
+format: 
+  html:
+    toc: true
+    toc-location: left
+    toc-title: Contents
+    toc-expand: 2 
+    smooth-scroll: true
+    code-links:
+      - text: Journal of Insects as Food and Feed
+        href: https://brill.com/view/journals/jiff/jiff-overview.xml
+    css: custom.css
+    theme: 
+      - custom.scss
+    page-layout: full
+copyright: 
+  holder: Thomas Klammsteiner
+  year: 2025
+doi: https://doi.org/
+citation: 
+  type: post-weblog
+  container-title: Zenodo
+  url: https://tklammsteiner.github.io/bugbook
+license: "CC BY"
+before_body: |
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-EPTY32RGDF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-EPTY32RGDF');
+  </script>
