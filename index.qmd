@@ -441,7 +441,7 @@ wrap_plots(list(a, bc), nrow = 2, heights = c(0.6, 0.4)) + plot_annotation(tag_l
 
 ## Data used for this post
 
-The raw data used in this post can be downloaded [here](https://github.com/tklammsteiner/bugbook/raw/dad477f8be674a8cbb0b8a0aa413551127c03525/data/bugbook_data.xlsx). Feel free to use, adapt, and share this work in any way you like.
+The raw data used in this post can be downloaded [here](data/bugbook_data.xlsx). Feel free to use, adapt, and share this work in any way you like.
 
 ## Links to other projects
 
