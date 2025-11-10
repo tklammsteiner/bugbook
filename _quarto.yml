@@ -17,9 +17,9 @@ format:
     code-links:
       - text: Journal of Insects as Food and Feed
         href: https://brill.com/view/journals/jiff/jiff-overview.xml
-    css: custom.css
+    css: css/custom.css
     theme: 
-      - custom.scss
+      - css/custom.scss
     page-layout: full
 copyright: 
   holder: Thomas Klammsteiner
